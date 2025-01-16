@@ -25,6 +25,3 @@ The keylogger is built using the `pynput` library, which listens for keyboard ev
    ```bash
    git clone https://github.com/your-username/Python-Keylogger.git
 
-   2. Install the required dependencies:
-
-   pip install pynput
