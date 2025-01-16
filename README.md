@@ -23,7 +23,7 @@ The keylogger is built using the `pynput` library, which listens for keyboard ev
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/nefariousjosiah/Python-Keylogger.git
+   git clone git@github.com:nefariousjosiah/Python-Keylogger.git
 
    ```
    2. Go Into the Directory and go into the dist folder.
